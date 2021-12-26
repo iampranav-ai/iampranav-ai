@@ -43,12 +43,12 @@
   <tr>
     <td>
       <a href="https://github.com/iampranav-ai">
-        <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&show_icons=true&include_all_commits=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=iampranav-ai&show_icons=true&include_all_commits=true&theme=tokyonight">
       <a/>
     </td>
     <td>
       <a href="https://github.com/iampranav-ai">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepushkarp&layout=compact&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampranav-ai&layout=compact&theme=tokyonight">
       <a/>
     </td>
    </tr>
