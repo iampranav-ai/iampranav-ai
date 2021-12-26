@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pranav Verma</h1>
 <h3 align="center">Passionate about Machine Learning, Artificial Intelligence and Stock Market from India.</h3>
 
+<p align="center">
+
+  <a href="https://github.com/iampranav-ai">
+    <img src="https://img.shields.io/badge/thepushkarp-100000?style=for-the-badge&logo=github&logoColor=white">
+   <a/>
+  <a href="https://www.linkedin.com/in/pranav-verma-0b2060189/">
+    <img src="https://img.shields.io/badge/thepushkarp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a/>
+  <a href="https://twitter.com/iampranav27">
+    <img src="https://img.shields.io/badge/@thepushkarp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a/>
+   <a href="https://www.instagram.com/checkmate_xoxo/">
+    <img src="https://img.shields.io/badge/@thepushkarp.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a/>
+</p>
 ---
 
 - 🎓 I'm a Third yearite in Computer Science at Arya College of Engineering and IT, Jaipur, India 
