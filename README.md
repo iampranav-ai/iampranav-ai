@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Pranav Verma</h1>
 <h3 align="center">Passionate about Machine Learning, Artificial Intelligence and Stock Market from India.</h3>
 
