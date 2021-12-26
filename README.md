@@ -11,7 +11,7 @@
 -  🛠 I'm proficient with Machine Learning, Python, and Data Science frameworks
 - 💬 Besides programming, I also love playing Chess 
 - 📫 Shoot me a mail at `itsmepranav.verma[AT]gmail[DOT]com`
-- 📄 Know about my experiences [https://www.linkedin.com/in/pranav-verma-0b2060189/](https://www.linkedin.com/in/pranav-verma-0b2060189/)
+- 📄 Know about my experiences [Linkedin ID](https://www.linkedin.com/in/pranav-verma-0b2060189/)
 - ⚡ Fun fact **I do stocks ;)**
 
 ---
