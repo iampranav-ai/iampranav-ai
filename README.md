@@ -3,15 +3,18 @@
 <h1 align="center">Hi 👋, I'm Pranav Verma</h1>
 <h3 align="center">Passionate about Machine Learning, Artificial Intelligence and Stock Market from India.</h3>
 
+---
+
+- 🎓 I'm a Third yearite in Computer Science at Arya College of Engineering and IT, Jaipur, India 
 - 🌱 I’m currently learning **Deep Learning**
-
-- 💬 Ask me about **ML, AI, Stock Market**
-
-- 📫 How to reach me **itsmepranav.verma@gmail.com**
-
+- 👩‍💻 I worked as an ML Intern at [Bobble AI](https://www.bobble.ai/en/home)
+-  🛠 I'm proficient with Machine Learning, Python, and Data Science frameworks
+- 💬 Besides programming, I also love playing Chess 
+- 📫 Shoot me a mail at `itsmepranav.verma[AT]gmail[DOT]com`
 - 📄 Know about my experiences [https://www.linkedin.com/in/pranav-verma-0b2060189/](https://www.linkedin.com/in/pranav-verma-0b2060189/)
-
 - ⚡ Fun fact **I do stocks ;)**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
