@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/@checkmate_xoxo-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a/>
 </p>
+    
 ---
 
 - 🎓 I'm a Third yearite in Computer Science at Arya College of Engineering and IT, Jaipur, India 
@@ -31,8 +32,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iampranav27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iampranav27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-verma-0b2060189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pranav-verma-0b2060189/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12727347/pranav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/12727347/pranav" height="30" width="40" /></a>
 <a href="https://medium.com/@itsmepranav.verma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@itsmepranav.verma" height="30" width="40" /></a>
 </p>
