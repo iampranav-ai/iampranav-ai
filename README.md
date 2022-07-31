@@ -22,12 +22,13 @@
 - 🎓 I'm a Third yearite in Computer Science at Arya College of Engineering and IT, Jaipur, India 
 - 🌱 I’m currently learning **Deep Learning**
 - 👩‍💻 I worked as an ML Intern at [Bobble AI](https://www.bobble.ai/en/home)
--  🛠 I'm proficient with Machine Learning, Python, and Data Science frameworks
+-  🛠 I'm proficient with Machine Learning, Python, and Data Science frameworks                           
 - 💬 Besides programming, I also love playing Chess 
 - 📫 Shoot me a mail at `itsmepranav.verma[AT]gmail[DOT]com`
 - 📄 Know about my experiences [Linkedin ID](https://www.linkedin.com/in/pranav-verma-0b2060189/)
 - ⚡ Fun fact **I do stocks ;)**
 
+<a href="https://app.daily.dev/knightrider27"><img src="https://api.daily.dev/devcards/49efb17abe674fe2ab4632b1f36969dc.png?r=ok0" width="400" alt="Pranav Verma's Dev Card"/></a>
 ---
 
 <h3 align="left">Connect with me:</h3>
