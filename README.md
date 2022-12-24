@@ -21,7 +21,7 @@
 
 - 🎓 I'm a Fourth yearite in Computer Science at Arya College of Engineering and IT, Jaipur, India 
 - 🌱 I’m currently learning **Deep Learning**
-- 👩‍💻 I worked as an ML Intern at [Bobble AI](https://www.bobble.ai/en/home)
+- 👩‍💻 I worked as an ML Intern at [Bobble AI](https://www.bobble.ai/en/home) and Data Science Intern at [Celebal Technologies](https://www.celebaltech.com)
 -  🛠 I'm proficient with Machine Learning, Python, and Data Science frameworks                           
 - 💬 Besides programming, I also love playing Chess 
 - 📫 Shoot me a mail at `itsmepranav.verma[AT]gmail[DOT]com`
