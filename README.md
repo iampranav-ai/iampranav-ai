@@ -19,7 +19,7 @@
     
 ---
 
-- 🎓 I'm a Third yearite in Computer Science at Arya College of Engineering and IT, Jaipur, India 
+- 🎓 I'm a Fourth yearite in Computer Science at Arya College of Engineering and IT, Jaipur, India 
 - 🌱 I’m currently learning **Deep Learning**
 - 👩‍💻 I worked as an ML Intern at [Bobble AI](https://www.bobble.ai/en/home)
 -  🛠 I'm proficient with Machine Learning, Python, and Data Science frameworks                           
