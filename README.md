@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Verma</h1>
-<h3 align="center">Passionate about Business Intelligence, Machine Learning and Artificial Intelligence from India.</h3>
+<h3 align="center">Passionate about Data Science from India.</h3>
 
 <p align="center">
 
