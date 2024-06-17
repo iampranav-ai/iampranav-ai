@@ -6,7 +6,7 @@
   <a href="https://github.com/iampranav-ai">
     <img src="https://img.shields.io/badge/iampranav-ai-100000?style=for-the-badge&logo=github&logoColor=white">
    <a/>
-  <a href="https://www.linkedin.com/in/pranav-verma-0b2060189/">
+  <a href="https://www.linkedin.com/in/pranav-verma27/">
     <img src="https://img.shields.io/badge/pranav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
   <a href="https://twitter.com/iampranav27">
