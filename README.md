@@ -20,7 +20,7 @@
 ---
 
 - 🎓 I completed my graduation in Computer Science from Arya College of Engineering and IT, Jaipur, India.
-- 🌱 I’m currently working as a Data Engineer at e-Zest Solutions in Pune, specializing in ETL, Data Pipelines, and Data Modeling
+- 🌱 I’m currently working as a Data Engineer at [e-Zest Solutions](https://www.e-zest.com) in Pune, specializing in ETL, Data Pipelines, and Data Modeling
 - 👩‍💻 I worked as a Data Analyst at [Celebal Technologies](https://www.celebaltech.com) and as an ML Intern at [Bobble AI](https://www.bobble.ai/en/home) 
 -  🛠 I'm proficient with ETL, Python, SQL and Azure Cloud                      
 - 💬 Besides programming, I also love playing Chess 
