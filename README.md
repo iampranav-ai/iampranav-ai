@@ -27,7 +27,7 @@
 - 📄 Know about my experiences [Linkedin ID](https://www.linkedin.com/in/pranav-verma27/)
 - ⚡ Fun fact **I do stocks ;)**
 
-<a href="https://app.daily.dev/iampranavai"><img src="https://api.daily.dev/devcards/49efb17abe674fe2ab4632b1f36969dc.png?r=bzf" width="400" alt="Pranav Verma's Dev Card"/></a>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
