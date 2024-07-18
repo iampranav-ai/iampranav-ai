@@ -20,8 +20,8 @@
 ---
 - 🌱 I’m currently working as a Data Engineer at [e-Zest Solutions](https://www.e-zest.com) in Pune, specializing in ETL, Data Warehousing, Data Pipelines, and Data Modeling
 - 👩‍💻 I worked as a Data Analyst at [Celebal Technologies](https://www.celebaltech.com) and as an ML Intern at [Bobble AI](https://www.bobble.ai/en/home) 
--  🛠 I'm proficient with ETL, Python, SQL and Azure Cloud  
-- 🎓 I completed my graduation in Computer Science from Arya College of Engineering and IT, Jaipur, India.           
+-  🛠 I'm proficient with Spark, Hadoop, Kafka, Airflow, Azure Cloud, Docker, Data Warehouse, Data Lake, Azure Machine Learning, Azure DevOps, Python, SQL, Azure Data Factory (ADF), Extract Transform Load (ETL), Mongodb (NoSQL), Postgres, Git, Microsoft Fabric, Power BI and Microsoft Excel with formulas.
+- 🎓 I completed my graduation in Computer Science.           
 - 💬 Besides programming, I also love playing Chess 
 - 📫 Shoot me a mail at `itsmepranav.verma[AT]gmail[DOT]com`
 - 📄 Know about my experiences [Linkedin ID](https://www.linkedin.com/in/pranav-verma27/)
