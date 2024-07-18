@@ -23,7 +23,7 @@
 -  🛠 I'm proficient with Spark, Hadoop, Kafka, Airflow, Azure Cloud, Docker, Data Warehouse, Data Lake, Azure Machine Learning, Azure DevOps, Python, SQL, Azure Data Factory (ADF), Extract Transform Load (ETL), Mongodb (NoSQL), Postgres, Git, Microsoft Fabric, Power BI and Microsoft Excel with formulas.
 - 🎓 I completed my graduation in Computer Science.           
 - 💬 Besides programming, I also love playing Chess 
-- 📫 Shoot me a mail at `itsmepranav.verma[AT]gmail[DOT]com`
+- 📫 Shoot me a mail at `itsmepranav.verma@gmail.com`
 - 📄 Know about my experiences [Linkedin ID](https://www.linkedin.com/in/pranav-verma27/)
 - ⚡ Fun fact **I do stocks ;)**
 
