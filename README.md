@@ -11,10 +11,6 @@
   <a/>
   <a href="https://twitter.com/iampranav27">
     <img src="https://img.shields.io/badge/@iampranav27-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  <a/>
-   <a href="https://www.instagram.com/checkmate_xoxo/">
-    <img src="https://img.shields.io/badge/@checkmate_xoxo-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a/>
 </p>
     
 ---
