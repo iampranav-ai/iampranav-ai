@@ -14,7 +14,7 @@
 </p>
     
 ---
-- 🌱 I’m currently working as a Data Engineer at [e-Zest Solutions](https://www.e-zest.com) in Pune, specializing in ETL, Data Warehousing, Data Pipelines, and Data Modeling
+- 🌱 I’m currently working as a Data Engineer at [Physics Wallah](https://www.pw.live) in Pune, specializing in ETL, Data Warehousing, Data Pipelines, and Data Modeling
 - 👩‍💻 I have also worked as an Associate at [Celebal Technologies](https://www.celebaltech.com) and as an Intern at [Bobble AI](https://www.bobble.ai/en/home) 
 -  🛠 I'm proficient with Spark, Hadoop, Kafka, Airflow, Snowflake, Azure Cloud, AWS, Docker, Data Warehouse, Data Lake, Azure Machine Learning, Azure DevOps, Python, SQL, Azure Data Factory (ADF), Extract Transform Load (ETL), Mongodb (NoSQL), PostgreSQL, Git, Microsoft Fabric, Power BI and Microsoft Excel with formulas.
 - 🎓 I completed my graduation in Computer Science.           
