@@ -14,7 +14,7 @@
 </p>
     
 ---
-- 🌱 I’m currently working as a Data Engineer at [Physics Wallah](https://www.pw.live), specializing in ETL, Data Warehousing, Data Pipelines, and Data Modeling
+- 🌱 I’m currently working as a SDE - Data Engineer at [Physics Wallah](https://www.pw.live), specializing in ETL, Data Warehousing, Data Pipelines, and Data Modeling
 -  🛠 I'm proficient with Spark, Hadoop, Kafka, Airflow, Snowflake, Azure Cloud, AWS, Docker, Data Warehouse, Data Lake, Azure Machine Learning, Azure DevOps, Python, SQL, Azure Data Factory (ADF), Extract Transform Load (ETL), Mongodb (NoSQL), PostgreSQL, Git, Microsoft Fabric, Power BI and Microsoft Excel with formulas.
 - 🎓 I completed my graduation in Computer Science.           
 - 💬 Besides programming, I also love playing Chess 
